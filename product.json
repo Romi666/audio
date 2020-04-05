@@ -1,0 +1,124 @@
+[
+    {
+        "id" : 1,
+        "merek" : {
+            "idbrand" : 1,
+            "nama" : "KZ"
+        },
+        "jenisProduk" : {
+            "idproduk" : 3,
+            "nama" : "Earphone"
+        },
+        "nama" : "KZ ZS3-Deep Bass Earphone",
+        "gambar" : "https://www.knowledge-zenith.id/wp-content/uploads/2019/01/kz-zst.jpg",
+        "keterangan" : "Garansi 12 bulan, untuk claim garansi dapat menuju ke audio-store",
+        "harga" : 189000
+    },
+    {
+        "id" : 2,
+        "merek" : {
+            "idbrand" : 1,
+            "nama" : "KZ"
+        },
+        "jenisProduk" : {
+            "idproduk" : 3,
+            "nama" : "Earphone"
+        },
+        "nama" : "KZ ZSN - In Ear Earphone- HYBRID Dual Driver",
+        "gambar" : "https://www.knowledge-zenith.id/wp-content/uploads/2019/01/KZ-ZSN-Purple-1.jpg",
+        "keterangan" : "Untuk ZSN dan ZSN Pro termasuk kategori earphone sensitif, sehingga ada kemungkinan akan terdengan noise",
+        "harga" : 299000
+    },
+    {
+        "id" : 3,
+        "merek" : {
+            "idbrand" : 4,
+            "nama" : "Sony"
+        },
+        "jenisProduk" : {
+            "idproduk" : 2,
+            "nama" : "Headphone"
+         },
+       "nama" : "Sony WH-H910N Black h.ear on 3 Wireless Noise Cancelling Headphones",
+       "gambar" : "https://ecs7.tokopedia.net/img/cache/700/product-1/2020/3/23/24485009/24485009_85286c19-192a-4183-8e91-89387b8878a7_1000_1000",
+       "keterangan" : "",
+       "harga" : 4399000
+    },
+    {
+        "id" : 4,
+        "merek" : {
+            "idbrand" : 4,
+            "nama" : "Sony"
+        },
+        "jenisProduk" : {
+            "idproduk" : 2,
+            "nama" : "TWS"
+        },
+        "nama" : "SONY WF-H800 Headphone h.ear in 3 Truly Wireless Black",
+        "gambar" : "https://ecs7.tokopedia.net/img/cache/700/product-1/2020/3/9/24485009/24485009_8f4ab46c-6ae3-4780-8413-6e7ec2a383d7_1280_1280",
+        "keterangan" : "",
+        "harga" : "2999000"
+    },
+    {
+        "id" : 5,
+        "merek" : {
+            "idbrand" : 5,
+            "nama" : "JBL"
+        },
+        "jenisProduk" : {
+            "idproduk" : 1,
+            "nama" : "Speaker"
+        },
+        "nama" : "JBL Flip 5",
+        "gambar": "https://id.jbl.com/dw/image/v2/AAUJ_PRD/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw6ee92282/JBL_Flip5_Product%20Photo_Hero_Forest%20Green-1605x1605-hero.jpg?sw=270&sh=330&sm=fit&sfrm=png",
+        "keterangan" : "Speaker bluetooth portable",
+        "harga" : 174900
+    },
+    
+    {
+        "id" : 6,
+        "merek" : {
+            "idbrand" : 5,
+            "nama" : "JBL"
+        },
+        "jenisProduk" : {
+            "idproduk" : 4,
+            "nama" : "TWS"
+        },
+        "nama" : "JBL T120 TWS",
+        "gambar" : "https://id.jbl.com/dw/image/v2/AAUJ_PRD/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw79c6c1a7/JBL_TUNE120_Product_Image_Case_Open_Black.jpg?sw=270&sh=330&sm=fit&sfrm=png",
+        "keterangan" : "Headphone In Ear Nirkabel Sesungguhnya",
+        "harga" : 1979100
+    },
+
+    {
+        "id" : 7,
+        "merek" : {
+            "idbrand" : 2,
+            "nama" : "ATH"
+        },
+        "jenisProduk" : {
+            "idproduk" : 2,
+            "nama" : "Headphone"
+        },
+        "nama" : "Audio-Technica ATH-SR50BT Wireless Over-Ear Headphones - Black",
+        "gambar" : "https://ecs7.tokopedia.net/img/cache/700/product-1/2019/12/7/19141949/19141949_9de5fad0-7d96-467d-85fe-7809834b0c0e_1000_1000",
+        "keterangan" : "ATH-SR50BT wireless over-ear headphones deliver the exceptionally pure audio of Sound Reality in a convenient wireless design. The headphones are compatible with the high-quality aptX and AAC codes, in addition to the standard SBC codec, to provide exhilarating, full-range audio from the Bluetooth wireless signal. The headphones' specially designed 45 mm drivers are also capable of Hi-Res Audio reproduction when used with the included 1.2 m (3.9') detachable cable.",
+        "harga" : 2599000
+    },
+    {
+        "id" : 8,
+        "merek" : {
+            "idbrand" : 2,
+            "nama" : "ATH"
+        },
+        "jenisProduk" : {
+            "idproduk" : 4,
+            "nama" : "TWS"
+        },
+        "nama" : "Audio-Technica ATH-CK3TW Wireless In-Ear Headphones Black",
+        "gambar" : "https://ecs7.tokopedia.net/img/cache/700/product-1/2020/1/8/19141949/19141949_04c0d34c-0fb6-48d6-81d1-5a27153bbfe6_1000_1000",
+        "keterangan" : "AUDIO TECHNICA CKS3TW True Wireless dengan teknologi Bluetooth 5.0 memadukan suara yang kuat dan berkualitas tinggi dengan kenyamanan dan kebebasan desain yang benar-benar nirkabel. Didesain hidup / mati otomatis, headphone akan menyala dan siap untuk beraktivitas segera setelah Anda mengeluarkannya dari case pengisi daya. Karena tidak ada kabel yang terhubung ke headphone, kontrol dan mikrofon tertanam langsung pada housing headphone, memberikan Anda kendali penuh dan nyaman untuk musik dan panggilan telepon Anda tanpa harus menyentuh smartphone yang terhubung.",
+        "harga" : 1299000
+    }
+]
