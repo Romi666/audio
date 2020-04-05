@@ -1,23 +1,23 @@
 {
     "brand" : [
         {
-            "idbrand": 1,
+            "id": 1,
             "name" : "KZ"
         },
         {
-            "idbrand": 2,
+            "id": 2,
             "name" : "ATH"
         },
         {
-            "idbrand" : 3,
+            "id" : 3,
             "name" : "Harman International"
         },
         {
-            "idbrand": 4,
+            "id": 4,
             "name" : "Sony"
         },
         {
-            "idbrand": 5,
+            "id": 5,
             "name" : "JBL"
         }
     ],
